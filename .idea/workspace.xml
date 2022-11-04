@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934d76f4-7ff0-4864-9c71-316628f8e82f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/generics/MoreThanThreeParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/MoreThanThreeParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/MaxToStd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/MaxToStd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +35,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MoreThanThreeParameters">
-    <configuration name="MaximumBetweenThreeFloats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.MaximumBetweenThreeFloats" />
+  <component name="RunManager" selected="Application.MaxToStd">
+    <configuration name="MaxToStd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.MaxToStd" />
       <module name="Generics" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxToStd" />
         <item itemvalue="Application.MoreThanThreeParameters" />
         <item itemvalue="Application.RefactorThreeVariables" />
         <item itemvalue="Application.RefactorThreeToOne" />
         <item itemvalue="Application.MaximumBetweenThreeStrings" />
-        <item itemvalue="Application.MaximumBetweenThreeFloats" />
       </list>
     </recent_temporary>
   </component>
