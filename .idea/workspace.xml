@@ -33,7 +33,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaximumBetweenThreeStrings">
+  <component name="RunManager" selected="Application.RefactorThreeToOne">
     <configuration name="MaximumBetweenThreeFloats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.MaximumBetweenThreeFloats" />
       <module name="Generics" />
@@ -73,8 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RefactorThreeToOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.RefactorThreeToOne" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RefactorThreeToOne" />
         <item itemvalue="Application.MaximumBetweenThreeStrings" />
         <item itemvalue="Application.MaximumBetweenThreeFloats" />
         <item itemvalue="Application.MaximumBetweenThreeIntegers" />
