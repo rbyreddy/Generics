@@ -35,22 +35,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxToStd">
+  <component name="RunManager" selected="Application.TestMaximum">
     <configuration name="MaxToStd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.MaxToStd" />
-      <module name="Generics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumBetweenThreeStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.MaximumBetweenThreeStrings" />
       <module name="Generics" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.TestMaximum" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMaximum" />
         <item itemvalue="Application.MaxToStd" />
         <item itemvalue="Application.MoreThanThreeParameters" />
         <item itemvalue="Application.RefactorThreeVariables" />
         <item itemvalue="Application.RefactorThreeToOne" />
-        <item itemvalue="Application.MaximumBetweenThreeStrings" />
       </list>
     </recent_temporary>
   </component>
